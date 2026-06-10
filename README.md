@@ -1,8 +1,8 @@
-# Hi, I'm Chester 👋
+# Hi, I'm Chet 👋
 
 I help individuals and teams **use AI and data science with confidence** — not just for the hype, but to actually get projects completed effectively and efficiently. I work at the intersection of AI, statistics, and communication, designing hands-on learning experiences and building tools that make complex ideas approachable.
 
-🌐 **[chesterismay.com](https://ismayc.github.io)** · 💼 [LinkedIn](https://www.linkedin.com/in/chesterismay/) · ✉️ [chester.ismay@gmail.com](mailto:chester.ismay@gmail.com)
+🌐 **[Webpage](https://ismayc.github.io)** · 💼 [LinkedIn](https://www.linkedin.com/in/chesterismay/) · ✉️ [chester.ismay@gmail.com](mailto:chester.ismay@gmail.com)
 
 ## What I do
 
