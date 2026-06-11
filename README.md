@@ -24,3 +24,4 @@ I help individuals and teams **use AI and data science with confidence** — not
 Whether it's a university rolling out an AI curriculum, a nonprofit streamlining its data analysis, or a company making sense of noisy dashboards — I'd love to help. **[Reach out →](mailto:chester.ismay@gmail.com)**
 
 *Outside of work, you'll probably find me hiking, rowing, playing pickleball, or exploring a new dataset for fun.* 🥾🚣
+
