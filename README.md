@@ -1,6 +1,6 @@
 # Hi, I'm Chet 👋
 
-I help individuals and teams **use AI and data science with confidence** — not just for the hype, but to actually get projects completed effectively and efficiently. I work at the intersection of AI, statistics, and communication, designing hands-on learning experiences and building tools that make complex ideas approachable.
+I help individuals and teams **use AI and data science with confidence**, not just for the hype, but to actually get projects completed effectively and efficiently. I work at the intersection of AI, statistics, and communication, designing hands-on learning experiences and building tools that make complex ideas approachable.
 
 🌐 **[Webpage](https://chesterismay.com)** · 🗂️ **[Portfolio](https://chesterismay.com/portfolio.html)** · 💼 [LinkedIn](https://www.linkedin.com/in/chesterismay/) · ✉️ [Email](mailto:chester.ismay@gmail.com)
 
@@ -28,7 +28,7 @@ In person across Arizona, remote anywhere. **[Visit sunbirds.ai →](https://sun
 
 ## Selected work
 
-- 📖 **[ModernDive](https://www.moderndive.com/v2)** — *Statistical Inference via Data Science*, a free online textbook (with a [print edition](https://www.routledge.com/Statistical-Inference-via-Data-Science-A-ModernDive-into-R-and-the-Tidyverse/Ismay-Kim-Valdivia/p/book/9781032708379)) teaching statistics through computation, R, and the tidyverse — used in courses around the world.
+- 📖 **[ModernDive](https://www.moderndive.com/v2)** — *Statistical Inference via Data Science*, a free online textbook (with a [print edition](https://www.routledge.com/Statistical-Inference-via-Data-Science-A-ModernDive-into-R-and-the-Tidyverse/Ismay-Kim-Valdivia/p/book/9781032708379)) teaching statistics through computation, R, and the tidyverse, used in courses around the world.
 - 🧪 **[infer](https://infer.tidymodels.org/)** — tidyverse-style statistical inference in R, part of the tidymodels ecosystem.
 - 📦 **[moderndive](https://moderndive.github.io/moderndive)** — companion R package to the ModernDive book, plus a family of teaching-focused data packages ([nycflights23](https://moderndive.github.io/nycflights23/), [fivethirtyeight](https://fivethirtyeight-r.netlify.app), [and more](https://chesterismay.com/portfolio.html#r-packages)).
 - 📝 **[Getting Used to R, RStudio, and R Markdown](https://rbasics.netlify.app)** — a beginner-friendly guide for new R users.
